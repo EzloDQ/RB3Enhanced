@@ -58,7 +58,7 @@ jobs:
           path: out/RB3Enhanced.mod
 
   Xbox:
-    if: github.repository == 'RBEnhanced/RB3Enhanced'
+    if: github.repository == 'EzloDQ/RB3Enhanced'
     runs-on: windows-2022
     timeout-minutes: 10
 
